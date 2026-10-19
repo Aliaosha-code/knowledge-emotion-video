@@ -1,7 +1,9 @@
 .DS_Store
 Thumbs.db
-*.m4a
 *.mp3
 *.mp4
 *.wav
 node_modules/
+# 参考音轨是自有素材，随仓库分发
+*.m4a
+!assets/ref-yubo-164s.m4a
